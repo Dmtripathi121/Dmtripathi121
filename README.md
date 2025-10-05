@@ -14,50 +14,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Dev Mani Tripathi
+
+🎓 **Undergraduate Student | Aspiring Data Analyst & Data Scientist**  
+📊 Passionate about turning data into actionable insights and meaningful solutions.
+
+---
+
 ## 🚀 About Me
 
-I’m Dev Mani Tripathi (Dmtripathi121) — a passionate and result-driven undergraduate student aiming to break into the world of Data Analytics and Data Science.
-With a solid foundation in statistics, programming, and business logic, I build data-driven projects that solve real problems and show measurable impact.
+I'm an enthusiastic **data analytics and data science** learner with a strong foundation in Python, SQL, and statistical modeling.  
+My projects focus on **analyzing real-world datasets**, building **predictive models**, and **visualizing insights** using tools like Power BI, Matplotlib, and Seaborn.
 
-## 🔍 What I Do / Focus Areas:
+💡 **What I Do:**
+- Data Cleaning, Preprocessing & Wrangling  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning (Supervised & Unsupervised)  
+- Dashboard Design (Power BI, Tableau)  
+- SQL Querying & Business Analytics  
 
-Exploratory Data Analysis, Data Visualization & Insights
+📘 **Current Focus:**
+- Learning model deployment with Flask / FastAPI  
+- Exploring Deep Learning & Time Series Analysis  
+- Preparing for data analytics internships and roles  
 
-Predictive Modeling & Machine Learning
+---
 
-SQL, Python (Pandas, NumPy, scikit-learn), and BI tools (Power BI, etc.)
+## 📂 Featured Projects
 
-Dashboard & Reporting Solutions
+🔹 **Walmart Sales Analysis** — Sales trends, store performance & customer insights  
+🔹 **Netflix Data Analysis (SQL)** — Querying to extract business insights  
+🔹 **Sales Dashboard (Power BI)** — KPI tracking and data visualization  
+🔹 **Logistics Data Study** — Identifying bottlenecks in transportation efficiency  
 
-Data Wrangling, Cleaning & Feature Engineering
+Explore all my projects here 👉 [My Repositories](https://github.com/Dmtripathi121?tab=repositories)
 
-Translating business questions into analytic tasks
+---
 
-## 📂 Key Projects (on this profile):
+## 🌐 Connect With Me
 
-Walmart Sales Analysis — Identifying top-performing branches, product trends, and customer behavior
+<p align="left">
+  <a href="https://www.linkedin.com/in/dev-mani-tripathi-70221227b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:devmanitripathi10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Netflix SQL Project — Querying and analyzing dataset to answer business questions
+---
 
-Sales Analysis — Extracting meaningful insights from sales datasets
+## 🧠 Languages & Tools
 
-Transportation & Logistics Analysis using Power BI — Visual dashboards highlighting bottlenecks, supplier performance, etc.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-These projects reflect my commitment to turning raw data into insights and actionable recommendations.
+---
 
-## 🌱 What I’m Learning / Aiming For:
-
-Deepening ML model deployment skills (Flask, FastAPI, Docker)
-
-Exploring advanced topics: Time Series, NLP, Deep Learning
-
-Gaining experience on real-world datasets and collaborating on open source
-
-Internships / entry roles in data analytics / data science fields
-
-## 📫 Let’s Connect
+⭐ **“Data is the new oil — and I love refining it into insight.”**  
+📈 Let’s connect and build something impactful together!
 
 
-
-I’m always open to mentoring, collaboration, or feedback.
-Feel free to reach out if you’d like to work together or chat about data!
